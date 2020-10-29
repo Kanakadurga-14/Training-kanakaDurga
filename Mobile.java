@@ -27,8 +27,6 @@ class Mobile
 
   public static void main(String args[])
 {
-Mobile  M  = new Mobile(64,"Android",502 ,48.0f);
-
-
+ ParametizedCon Redmi = new ParametizedCon(64,"Android",5020 ,48.0f);
 }
 }
