@@ -27,12 +27,8 @@ class MultInexample
 {
 public static void main(String args[])
 {
- Electronics  E =new Electronics();
-  E.mobile();
-Laptop  L =new Laptop ();
- L.dell();
- L.hp();
 Tablet  T =new Tablet();
+ T.dell();
   T.samsang();
 }
 }
