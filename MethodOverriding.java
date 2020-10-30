@@ -35,12 +35,6 @@ class MethodOverriding
 {
 public static void main(String args[])
 {
-Car Black =new Car();
-Black.Cost();
-Black.milage();
-Audi White = new Audi();
-White.Cost();
-White.milage();
 Swift Sliver=new Swift();
 Sliver.Cost();
 Sliver.milage();
